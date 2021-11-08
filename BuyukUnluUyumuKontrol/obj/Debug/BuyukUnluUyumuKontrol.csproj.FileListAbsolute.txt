@@ -1,0 +1,10 @@
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\bin\Debug\BuyukUnluUyumuKontrol.exe.config
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\bin\Debug\BuyukUnluUyumuKontrol.exe
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\bin\Debug\BuyukUnluUyumuKontrol.pdb
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.csprojAssemblyReference.cache
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.frm_kontrol.resources
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.Properties.Resources.resources
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.csproj.GenerateResource.cache
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.csproj.CoreCompileInputs.cache
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.exe
+C:\Users\arike\source\repos\BuyukUnluUyumuKontrol\BuyukUnluUyumuKontrol\obj\Debug\BuyukUnluUyumuKontrol.pdb
